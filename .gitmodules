@@ -1,0 +1,6 @@
+[submodule "open-bydata-notebook-feinstaub"]
+	path = open-bydata-notebook-feinstaub
+	url = git@github.com:byte-bayern/open-bydata-notebook-feinstaub.git
+[submodule "feinstaub"]
+	path = feinstaub
+	url = git@github.com:byte-bayern/open-bydata-notebook-feinstaub.git
