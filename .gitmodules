@@ -1,6 +1,6 @@
-[submodule "open-bydata-notebook-feinstaub"]
-	path = open-bydata-notebook-feinstaub
-	url = git@github.com:byte-bayern/open-bydata-notebook-feinstaub.git
-[submodule "feinstaub"]
-	path = feinstaub
-	url = git@github.com:byte-bayern/open-bydata-notebook-feinstaub.git
+[submodule "open-bydata-notebook-emission"]
+	path = open-bydata-notebook-emission
+	url = git@github.com:byte-bayern/open-bydata-notebook-emission.git
+[submodule "emission"]
+	path = emission
+	url = git@github.com:byte-bayern/open-bydata-notebook-emission.git
