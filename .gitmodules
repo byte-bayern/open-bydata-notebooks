@@ -1,6 +1,3 @@
-[submodule "open-bydata-notebook-emission"]
-	path = open-bydata-notebook-emission
-	url = git@github.com:byte-bayern/open-bydata-notebook-emission.git
 [submodule "emission"]
 	path = emission
-	url = git@github.com:byte-bayern/open-bydata-notebook-emission.git
+	url = https://github.com/byte-bayern/open-bydata-notebook-emission.git
