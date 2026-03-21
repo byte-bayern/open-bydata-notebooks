@@ -4,3 +4,4 @@
 [submodule "passantenzaehlung"]
 	path = passantenzaehlung
 	url = git@github.com:byte-bayern/open-bydata-notebook-passantenzaehlung.git
+	branch = main
