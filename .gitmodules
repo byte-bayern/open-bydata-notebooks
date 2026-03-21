@@ -1,3 +1,4 @@
 [submodule "emission"]
 	path = emission
 	url = https://github.com/byte-bayern/open-bydata-notebook-emission.git
+	branch = main
