@@ -1,8 +1,12 @@
 [submodule "emission"]
 	path = emission
 	url = https://github.com/byte-bayern/open-bydata-notebook-emission.git
-  branch = main
+	branch = main
 [submodule "passantenzaehlung"]
 	path = passantenzaehlung
 	url = git@github.com:byte-bayern/open-bydata-notebook-passantenzaehlung.git
+	branch = main
+[submodule "radverkehr"]
+	path = radverkehr
+	url = git@github.com:byte-bayern/open-bydata-notebook-radverkehr.git
 	branch = main
