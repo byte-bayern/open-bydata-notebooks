@@ -1,6 +1,17 @@
 # open.bydata Notebooks
 
-### Ausführung der Open Data Notebooks
+### Welche Notebooks gibt es?
+
+Aktuell sind folgende Notebooks veröffentlicht:
+
+* **emission**: Luftqualitätsdaten in Bayern auswerten und auf einer Karte visualisieren.
+* **passantenzaehlung**: Passantenzählungen in Würzburg auswerten.
+* **radverkehr**: Münchner Raddauerzählstellen visualisieren und auswerten.
+
+Die Notebooks sind als Git Submodules in diesem Repository eingebunden, ein Klick auf den Notebook-Ordner verweist auf das jeweilige Notebook-Repository.
+
+
+### Wie kann ich die Notebooks ausführen?
 
 Unsere Codebeispiele sind als **IPython‑Notebooks (.ipynb)** implementiert.  
 Die Notebooks können **entweder online ohne lokale Installation** oder **lokal auf dem eigenen Rechner** ausgeführt werden.
