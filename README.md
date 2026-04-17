@@ -77,3 +77,12 @@ pip install -r requirements.txt
 # Notebook starten
 jupyter notebook
 ```
+
+### Wie kann ich mit meinem Notebook beitragen?
+
+Wir freuen uns über Pull Requests mit neuen Notebooks, die auf Datensätzen von open.bydata aufbauen. So kannst du deins vorschlagen:
+
+1. Forke dieses Repository
+2. Füge dein Repository, welches das Notebook enthält, als Git Submodule hinzu
+3. Füge dein Notebook samt Kurzbeschreibung in der Sektion "Welche Notebooks gibt es?" in dieser Datei (README.md) ein
+3. Erstelle einen Pull Request mit einer Beschreibung deines Notebooks
